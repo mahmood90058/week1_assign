@@ -16,7 +16,7 @@ then, git status     -> we come to know there is no track
 
 // checkout, reset
 
-git checkout                to change head from current state to a specific state
+git checkout 3a52607               to change head from current state to a specific state
 git checkout master
 
 git log --oneline           to reset
